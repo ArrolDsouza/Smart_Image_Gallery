@@ -24,10 +24,14 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
 
 ## 🛠️ Tech Stack
 
-- ⚛️ **React** – Component-based architecture for dynamic rendering  weewedgddfgdfgdfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggd
-- 🎨 **Tailwind CSS** – Utility-first framework for rapid UI development  
-- 🧠 **JavaScript (ES6+)** – Handles logic, API calls, and interactivity  
-- 🌐 **Pixabay API** – Source of high-quality images based on user queries  
+- ⚛️ **React** – Component-based architecture for dynamic rendering
+  
+- 🎨 **Tailwind CSS** – Utility-first framework for rapid UI development
+  
+- 🧠 **JavaScript (ES6+)** – Handles logic, API calls, and interactivity
+  
+- 🌐 **Pixabay API** – Source of high-quality images based on user queries
+   
 - 🧱 **HTML5** – Semantic structure for the UI
 
 ---
