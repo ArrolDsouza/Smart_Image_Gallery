@@ -7,9 +7,9 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
 
 ## 🚀 Features
 
-🔍 **Search Anything** – Search for stunning images by keywords using the powerful Pixabay API. Clean, adaptive gallery layout that displays **20 images per page**  
+🔍 **Search Anything** – Search for stunning images by keywords using the powerful Pixabay API. Clean, adaptive gallery layout that displays **20 images per page** 
 🖼️ **Dynamic Image Grid** – Images are displayed in a responsive and visually appealing grid layout. 
-⚡ **Real-time Fetching** – Images load dynamically from the API based on your search input. Images fetched in **under 1 second** on average (dependent on network)   
+⚡ **Real-time Fetching** – Images load dynamically from the API based on your search input. Images fetched in **under 1 second** on average (dependent on network) 
 🌈 **Tailwind Styling** – Sleek, clean, and responsive UI made with utility-first Tailwind CSS.  
 📱 **Mobile Responsive** – Looks great on all devices – mobile, tablet, and desktop.  
 🌙 **Dark Mode Ready** *(optional enhancement)* – Add a dark mode toggle for extra flair!
