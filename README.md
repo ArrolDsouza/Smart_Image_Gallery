@@ -19,14 +19,12 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
 
 📱 **Mobile Responsive** – Looks great on all devices – mobile, tablet, and desktop.  
 
-🌙 **Dark Mode Ready** *(optional enhancement)* – Add a dark mode toggle for extra flair!
-
 
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ **React** – Component-based architecture for dynamic rendering  
+- ⚛️ **React** – Component-based architecture for dynamic rendering  weewe
 - 🎨 **Tailwind CSS** – Utility-first framework for rapid UI development  
 - 🧠 **JavaScript (ES6+)** – Handles logic, API calls, and interactivity  
 - 🌐 **Pixabay API** – Source of high-quality images based on user queries  
