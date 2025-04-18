@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Modal from "react-modal";
 
-const API_KEY = "49347596-856d7e1af5de7749df1802741";
+const API_KEY = "API_KEY";
 const BASE_API_URL = `https://pixabay.com/api/?key=${API_KEY}&q=yellow+flowers&image_type=photo&per_page=50`;
 
 Modal.setAppElement("#root");
