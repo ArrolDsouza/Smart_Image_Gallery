@@ -1,11 +1,11 @@
 
-# Smart Image Gallery App
+# 📸 Smart Image Gallery App
 
 Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich gallery powered by the **Pixabay API**! Built with  **React**,  **Tailwind CSS**,  **JavaScript**, and **HTML**, this project lets you explore beautiful images from around the world with a smooth and interactive experience.The Image Gallery is a sleek, responsive web application built using React for dynamic component rendering, Tailwind CSS for fast and modern styling, and JavaScript to handle logic and interactivity. HTML forms the structural foundation of the app.
 
 ---
 
-##  Features
+## ✅ Features
 
  **1. Search Anything** – Search for stunning images by keywords using the powerful Pixabay API. 
                         Clean, adaptive gallery layout that displays **20 images per page** 
@@ -22,7 +22,7 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
 
 ---
 
-##  Tech Stack
+## ⚙️ Tech Stack
 
 -  **1. React** – Component-based architecture for dynamic rendering
   
@@ -36,7 +36,7 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
 
 ---
 
-##  Installation
+## 📥 Installation
 
 1. Clone the repository  
    ```bash
@@ -56,7 +56,7 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
    ```
 ---
 
-##  Screenshots
+## 🖼️ Screenshots
 
 > *![Screenshot 2025-03-31 122021](https://github.com/user-attachments/assets/823aa0ee-d2cf-41ca-9f52-86c0b9ddda33)
 *
@@ -66,7 +66,7 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
 
 ---
 
-##  Future Improvements
+##  🔮🔧 Future Improvements
 
 -  Infinite scroll instead of pagination  
 -  Save favorite images locally or in user profiles  
@@ -76,7 +76,7 @@ Welcome to the **Image Gallery App** – a modern, responsive, and feature-rich 
 
 ---
 
-##  Contributions
+## ✨ Contributions
 
 Got ideas? Found a bug? Want to make it better? Feel free to fork the repo and submit a pull request! 
 
